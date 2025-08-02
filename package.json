@@ -1,1 +1,17 @@
+{
+  "name": "yomidu-md",
+  "version": "1.0.0",
+  "description": "Yomidu-MD Full WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "pino": "^8.14.1",
+    "qrcode-terminal": "^0.12.0",
+    "node-fetch": "^3.3.2",
+    "wa-sticker-formatter": "^4.4.4"
+  }
+}
 
