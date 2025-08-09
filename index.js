@@ -37,7 +37,8 @@ async function startBot() {
         }
     })
 
-    console.log(`✅ ${global.Yomidu MD BOT} Started! Owner: ${global.Yomidu}`)
+    console.log(`✅ ${global.YomiduMDBOT} Started! Owner: ${global.Yomidu}`);
+
 }
 
 startBot()
